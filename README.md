@@ -30,11 +30,6 @@ The following technologies were used to build this app:
 - React Router v6
 - React Query
 - Redux
-# Installation and Setup
-To run this app, follow these steps:
 
-- Install the dependencies: npm install
-- Start the app: npm start
-- The app should open in your default browser at http://localhost:3000/.
 
 
