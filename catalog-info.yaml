@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: contact_management_app
+  description: |
+    No description provided
+  annotations:
+    github.com/project-slug: Meeranmk/contact_management_app
+  links:
+    - title: Repository
+      url: https://github.com/Meeranmk/contact_management_app
+spec:
+  type: service
+  lifecycle: production
+  owner: user:Meeranmk
